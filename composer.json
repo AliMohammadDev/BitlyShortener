@@ -1,5 +1,5 @@
 {
-    "name": "alidev/bitly-shortener",
+    "name": "alishadel/bitly-shortener",
     "description": "Shorten Long Urls Using Bitly Api",
     "type": "library",
     "license": "MIT",
